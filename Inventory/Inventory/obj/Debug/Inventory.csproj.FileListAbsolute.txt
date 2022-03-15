@@ -1,0 +1,8 @@
+C:\Users\hp\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\hp\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\hp\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\hp\Inventory\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\hp\Inventory\Inventory\obj\Debug\Inventory.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\hp\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\hp\Inventory\Inventory\obj\Debug\Inventory.pdb
